@@ -1,0 +1,1 @@
+{"model": "Qwen/Qwen2.5-1.5B-Instruct", "dataset": "gsm8k", "tag": "base", "n_problems": 500, "n_samples": 8, "temperature": 0.6, "avg@1": 0.5525, "mean_gen_tokens": 132.5, "solved_any": 0.89, "pass@1": 0.5525, "maj@1": 0.5537200000000001, "pass@4": 0.8077714285714286, "maj@4": 0.6551, "pass@8": 0.89, "maj@8": 0.72}
